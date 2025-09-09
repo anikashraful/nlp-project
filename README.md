@@ -147,4 +147,4 @@ Runs fully in **Google Colab** and saves trained models to Google Drive.
 
 ------------------------------------------------------------------------
 
-👨‍💻 Author: Mohammad Ashraful Alam
+👨‍💻 Author: Md Ashraful Alam
